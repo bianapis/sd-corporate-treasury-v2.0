@@ -1,0 +1,25 @@
+{
+  "corporateTreasuryManagementPlanInstanceRecord" : {
+    "capitalWholesaleMarketTransactions" : "capitalWholesaleMarketTransactions",
+    "treasuryPlanGoals" : "treasuryPlanGoals",
+    "treasuryPlanningPoliciesAndGuidelines" : "treasuryPlanningPoliciesAndGuidelines",
+    "enterpriseFinancialStatements" : "enterpriseFinancialStatements",
+    "enterpriseBalanceSheetDetailedContent" : "enterpriseBalanceSheetDetailedContent",
+    "currencyandRateRiskAnalysis" : "currencyandRateRiskAnalysis",
+    "treasuryPlanOperatingParameters" : "treasuryPlanOperatingParameters",
+    "enterpriseBankAccountingAndCashManagementRecords" : "enterpriseBankAccountingAndCashManagementRecords"
+  },
+  "corporateTreasuryManagementPlanRetrieveActionTaskReference" : "CTMPRATR755402",
+  "corporateTreasuryManagementPlanInstanceAnalysis" : {
+    "corporateTreasuryManagementPlanInstanceAnalysisData" : "corporateTreasuryManagementPlanInstanceAnalysisData",
+    "corporateTreasuryManagementPlanInstanceAnalysisReport" : {},
+    "corporateTreasuryManagementPlanInstanceAnalysisReportType" : "corporateTreasuryManagementPlanInstanceAnalysisReportType"
+  },
+  "corporateTreasuryManagementPlanRetrieveActionResponse" : "corporateTreasuryManagementPlanRetrieveActionResponse",
+  "corporateTreasuryManagementPlanInstanceReportRecord" : {
+    "corporateTreasuryManagementPlanInstanceReportType" : "corporateTreasuryManagementPlanInstanceReportType",
+    "corporateTreasuryManagementPlanInstanceReportData" : "corporateTreasuryManagementPlanInstanceReportData",
+    "corporateTreasuryManagementPlanInstanceReport" : {}
+  },
+  "corporateTreasuryManagementPlanRetrieveActionTaskRecord" : {}
+}

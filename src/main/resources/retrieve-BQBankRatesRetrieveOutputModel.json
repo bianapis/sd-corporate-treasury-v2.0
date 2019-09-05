@@ -1,0 +1,26 @@
+{
+  "bankRatesRetrieveActionTaskReference" : "BRRATR746249",
+  "bankRatesRetrieveActionTaskRecord" : {},
+  "bankRatesInstanceReport" : {
+    "bankRatesInstanceReportParameters" : "bankRatesInstanceReportParameters",
+    "bankRatesInstanceReportType" : "bankRatesInstanceReportType",
+    "bankRatesInstanceReport" : {},
+    "bankRatesInstanceReportRecord" : {}
+  },
+  "bankRatesInstanceAnalysis" : {
+    "bankRatesInstanceAnalysisReportType" : "bankRatesInstanceAnalysisReportType",
+    "bankRatesInstanceAnalysisReport" : {},
+    "bankRatesInstanceAnalysisParameters" : "bankRatesInstanceAnalysisParameters",
+    "bankRatesInstanceAnalysisRecord" : {}
+  },
+  "bankRatesInstanceRecord" : {
+    "bankRateRecordDate" : "09-22-2018",
+    "bankRateValueDate" : "09-22-2018",
+    "bankRateValue" : "bankRateValue",
+    "bankRateRecord" : {},
+    "bankRateValueHistory" : "bankRateValueHistory",
+    "bankRateRecordReference" : "782978",
+    "bankRateType" : "bankRateType"
+  },
+  "bankRatesRetrieveActionResponse" : "bankRatesRetrieveActionResponse"
+}

@@ -1,0 +1,10 @@
+{
+  "corporateTreasuryManagementPlanInstanceRecord" : {
+    "treasuryPlanGoals" : "treasuryPlanGoals",
+    "treasuryPlanningPoliciesAndGuidelines" : "treasuryPlanningPoliciesAndGuidelines",
+    "treasuryPlanOperatingParameters" : "treasuryPlanOperatingParameters"
+  },
+  "corporateTreasuryManagementPlanUpdateActionTaskReference" : "CTMPUATR767518",
+  "updateResponseRecord" : {},
+  "corporateTreasuryManagementPlanUpdateActionTaskRecord" : {}
+}

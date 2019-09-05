@@ -1,0 +1,23 @@
+{
+  "tacticalFundingInstanceRecord" : {
+    "enterpriseBalanceSheetPositions" : "enterpriseBalanceSheetPositions",
+    "capitalAdequacyRequirements" : "capitalAdequacyRequirements",
+    "tacticalFundingResolutionTask" : "tacticalFundingResolutionTask",
+    "bankPositionsandHedgingRequirements" : "bankPositionsandHedgingRequirements"
+  },
+  "tacticalFundingRetrieveActionTaskRecord" : {},
+  "tacticalFundingInstanceReport" : {
+    "tacticalFundingInstanceReportRecord" : {},
+    "tacticalFundingInstanceReport" : {},
+    "tacticalFundingInstanceReportType" : "tacticalFundingInstanceReportType",
+    "tacticalFundingInstanceReportParameters" : "tacticalFundingInstanceReportParameters"
+  },
+  "tacticalFundingInstanceAnalysis" : {
+    "tacticalFundingInstanceAnalysisReport" : {},
+    "tacticalFundingInstanceAnalysisParameters" : "tacticalFundingInstanceAnalysisParameters",
+    "tacticalFundingInstanceAnalysisReportType" : "tacticalFundingInstanceAnalysisReportType",
+    "tacticalFundingInstanceAnalysisRecord" : {}
+  },
+  "tacticalFundingRetrieveActionTaskReference" : "TFRATR724510",
+  "tacticalFundingRetrieveActionResponse" : "tacticalFundingRetrieveActionResponse"
+}

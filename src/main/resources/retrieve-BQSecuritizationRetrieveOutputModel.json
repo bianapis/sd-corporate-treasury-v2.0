@@ -1,0 +1,23 @@
+{
+  "securitizationRetrieveActionTaskReference" : "SRATR707131",
+  "securitizationInstanceRecord" : {
+    "bankSecuritizationPoliciesandguidelines" : "bankSecuritizationPoliciesandguidelines",
+    "securitizationTrancheRecord" : {},
+    "securitizationTrancheReference" : "731970",
+    "securitizationTask" : "securitizationTask"
+  },
+  "securitizationRetrieveActionTaskRecord" : {},
+  "securitizationInstanceAnalysis" : {
+    "securitizationInstanceAnalysisParameters" : "securitizationInstanceAnalysisParameters",
+    "securitizationInstanceAnalysisReport" : {},
+    "securitizationInstanceAnalysisRecord" : {},
+    "securitizationInstanceAnalysisReportType" : "securitizationInstanceAnalysisReportType"
+  },
+  "securitizationRetrieveActionResponse" : "securitizationRetrieveActionResponse",
+  "securitizationInstanceReport" : {
+    "securitizationInstanceReportType" : "securitizationInstanceReportType",
+    "securitizationInstanceReportRecord" : {},
+    "securitizationInstanceReportParameters" : "securitizationInstanceReportParameters",
+    "securitizationInstanceReport" : {}
+  }
+}

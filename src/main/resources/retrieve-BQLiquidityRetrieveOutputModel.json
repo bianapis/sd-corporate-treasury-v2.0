@@ -1,0 +1,27 @@
+{
+  "corporateTreasuryManagementPlanInstanceRecord" : {
+    "currencyandRateRiskAnalysis" : "currencyandRateRiskAnalysis",
+    "enterpriseBankAccountingAndCashManagementRecords" : "enterpriseBankAccountingAndCashManagementRecords"
+  },
+  "liquidityInstanceReport" : {
+    "liquidityInstanceReportParameters" : "liquidityInstanceReportParameters",
+    "liquidityInstanceReport" : {},
+    "liquidityInstanceReportRecord" : {},
+    "liquidityInstanceReportType" : "liquidityInstanceReportType"
+  },
+  "liquidityRetrieveActionResponse" : "liquidityRetrieveActionResponse",
+  "liquidityInstanceAnalysis" : {
+    "liquidityInstanceAnalysisReport" : {},
+    "liquidityInstanceAnalysisParameters" : "liquidityInstanceAnalysisParameters",
+    "liquidityInstanceAnalysisRecord" : {},
+    "liquidityInstanceAnalysisReportType" : "liquidityInstanceAnalysisReportType"
+  },
+  "liquidityInstanceRecord" : {
+    "liquidityResolutionTask" : "liquidityResolutionTask",
+    "enterpriseLiquidityCashManagementAnalysis" : "enterpriseLiquidityCashManagementAnalysis",
+    "enterpriseLargePaymentTransactionRecords" : "enterpriseLargePaymentTransactionRecords",
+    "businessUnitFinancialReports" : "businessUnitFinancialReports"
+  },
+  "liquidityRetrieveActionTaskReference" : "LRATR710324",
+  "liquidityRetrieveActionTaskRecord" : {}
+}

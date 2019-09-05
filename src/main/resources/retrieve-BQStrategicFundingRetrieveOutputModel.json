@@ -1,0 +1,24 @@
+{
+  "strategicFundingInstanceReport" : {
+    "strategicFundingInstanceReport" : {},
+    "strategicFundingInstanceReportRecord" : {},
+    "strategicFundingInstanceReportType" : "strategicFundingInstanceReportType",
+    "strategicFundingInstanceReportParameters" : "strategicFundingInstanceReportParameters"
+  },
+  "strategicFundingInstanceRecord" : {
+    "enterpriseBalanceSheetPositions" : "enterpriseBalanceSheetPositions",
+    "eCMDCMMarketTransactions" : "eCMDCMMarketTransactions",
+    "financialPerformanceandBalanceSheetProjections" : "financialPerformanceandBalanceSheetProjections",
+    "strategicFundingResolutionTask" : "strategicFundingResolutionTask",
+    "strategicInvestmentHoldingsTransactions" : "strategicInvestmentHoldingsTransactions"
+  },
+  "strategicFundingInstanceAnalysis" : {
+    "strategicFundingInstanceAnalysisReportType" : "strategicFundingInstanceAnalysisReportType",
+    "strategicFundingInstanceAnalysisRecord" : {},
+    "strategicFundingInstanceAnalysisParameters" : "strategicFundingInstanceAnalysisParameters",
+    "strategicFundingInstanceAnalysisReport" : {}
+  },
+  "strategicFundingRetrieveActionTaskReference" : "SFRATR787513",
+  "strategicFundingRetrieveActionResponse" : "strategicFundingRetrieveActionResponse",
+  "strategicFundingRetrieveActionTaskRecord" : {}
+}

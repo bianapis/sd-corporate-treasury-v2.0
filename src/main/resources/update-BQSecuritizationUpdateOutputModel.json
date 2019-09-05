@@ -1,0 +1,9 @@
+{
+  "securitizationUpdateActionTaskReference" : "SUATR796605",
+  "securitizationInstanceRecord" : {
+    "securitizationTrancheRecord" : {},
+    "securitizationTask" : "securitizationTask"
+  },
+  "securitizationUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}
